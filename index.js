@@ -17,6 +17,6 @@ app.use('/api/titan', titan)
 app.listen(port, ()=>{
 
 
-console.log(`esuchando en el puerto ${port}`);
+console.log(`escuchando en el puerto ${port}`);
 
 })

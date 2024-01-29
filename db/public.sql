@@ -14,4 +14,6 @@ values
 ('T-Acorazado', 'Coraza'),
 ('T-Colosal', 'Altura');
 
+
+
 select * from tbl_titan
